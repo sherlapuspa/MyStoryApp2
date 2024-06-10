@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="my_blue">#39A8E1</color>
+    <color name="white_500">#F1F6F9</color>
+    <color name="buttonColor">#6A7073</color>
+    <color name="wordColor">#494242</color>
+    <color name="my_light_blue">#8BA9E6</color>
+
+    <style name="ProgressBarStyle">
+        <item name="colorAccent">@color/my_blue</item>
+    </style>
+
+    <style name="ProgressBarStyleWhite">
+        <item name="colorAccent">@color/white</item>
+    </style>
+</resources>
